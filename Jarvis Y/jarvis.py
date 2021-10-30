@@ -1,3 +1,4 @@
+'''This is a python project'''
 import pyttsx3
 import requests
 import speech_recognition as sr
